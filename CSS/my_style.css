@@ -1,0 +1,12 @@
+body {
+	background: rgba(0, 128, 0, 0.4);
+	font-family: "Times New Roman", Times, serif;
+	margin: 3px;
+	padding: 0px;
+	border: 0px;
+	left: 3px;
+	top: 3px;
+}
+h1 {
+	text-align: center;
+}

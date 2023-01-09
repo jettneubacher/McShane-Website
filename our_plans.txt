@@ -1,0 +1,31 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="CSS/my_style.css">
+<title> our plans </title>
+</head>
+
+<body>
+<h1> Our Plans </h1>
+
+<ul>
+<li> <a href="index.html"> Home </a> </li>
+<li> <a href="about_us.html"> About us </a> </li>
+<li> <a href="our_plans.html"> Our Plans </a> </li>
+<li> <a href="contact_us.html"> Contact us </a> </li>
+<li> <a href="products.html"> Products </a> </li>
+</ul>
+
+<br/>
+<p> This society has big plans for the future! We will: </p>
+<ul>
+<li> Erect a shrine at Fordham Rose Hill for father McShane </li>
+<li> Petition for father McShane to be inducted into the rock and roll hall of fame </li>
+<li> Change the Fordham dining dollar currency into McShane-Bucks </li>
+<li> Name the new Fordham student center the McShane Center </li>
+</ul>
+
+<img src="Images/McShane3.jpg" alt="image can't load" />
+
+</body>
+
+</html>

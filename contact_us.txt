@@ -1,0 +1,45 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="CSS/my_style.css">
+<title> contact us </title>
+</head>
+
+<body>
+<h1> Contact us </h1>
+<ul>
+<li> <a href="index.html"> Home </a> </li>
+<li> <a href="about_us.html"> About us </a> </li>
+<li> <a href="our_plans.html"> Our Plans </a> </li>
+<li> <a href="contact_us.html"> Contact us </a> </li>
+<li> <a href="products.html"> Products </a> </li>
+</ul>
+
+<br/>
+<hr/>
+
+<p>
+Email us <a href="mailto:mcshanefansociety@gmail.com?subject=Hello"> here </a>
+</p>
+
+<br/>
+<hr/>
+
+<table border="1">
+<tr>
+	<td> <strong> Phone </strong> </td>
+	<td> (212)-123-4567 </td>
+</tr>
+</table>
+
+<br/>
+<hr/>
+
+<p> <strong> Adress:  </strong> </p>
+<p>
+<address> 1234 McShane Road </address>
+<address> New York City, NY </address>
+<address> 10001 </address>
+</p>
+</body>
+
+</html>
